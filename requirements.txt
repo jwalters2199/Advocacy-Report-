@@ -1,0 +1,10 @@
+dash==1.19.0
+dash-bootstrap-components
+dash_core_components
+dash_html_components
+datetime
+gunicorn
+numpy
+pandas
+plotly
+python-editor==1.0
